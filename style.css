@@ -7,8 +7,13 @@
   height: auto;
 }
 
-ul,
+/* ul,
 ol {
   font-family: monospace;
+  background-color: aliceblue;
+} */
+
+div {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
   background-color: aliceblue;
 }
