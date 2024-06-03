@@ -1,0 +1,14 @@
+* {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#chef {
+  width: 200px;
+  height: auto;
+}
+
+ul,
+ol {
+  font-family: monospace;
+  background-color: aliceblue;
+}
